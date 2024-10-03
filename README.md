@@ -51,11 +51,11 @@ Before you begin, ensure you have met the following requirements:
 5. **(Optional) Set up Docker**:
    - Build the Docker image:
      ```bash
-     docker build -t my_app .
+     docker build -t rest_service .
      ```
    - Run the Docker container:
      ```bash
-     docker run -p 3000:3000 my_app
+     docker run -p 3000:3000 rest_service
      ```
 
 ## Running the Application

@@ -24,8 +24,8 @@ Before you begin, ensure you have met the following requirements:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/my_app.git
-   cd my_app
+   git clone [https://github.com/yourusername/my_app.git](https://github.com/adnanmirza1/rest_service.git)
+   cd rest_service
    ```
 
 2. **Install dependencies**:

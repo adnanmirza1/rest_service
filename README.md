@@ -24,7 +24,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. **Clone the repository**:
    ```bash
-   git clone [https://github.com/yourusername/my_app.git](https://github.com/adnanmirza1/rest_service.git)
+   git clone https://github.com/adnanmirza1/rest_service.git
    cd rest_service
    ```
 
